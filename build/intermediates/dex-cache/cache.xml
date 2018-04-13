@@ -3,24 +3,6 @@
 
     <item
         is-multidex="true"
-        jar="D:\Androiddaima\CoolWeather\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="27.0.2"
-        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="D:\Androiddaima\CoolWeather\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.1_c98dc02bb2634d88e108a4c750ab8b840b345061\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\Androiddaima\CoolWeather\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="27.0.2"
-        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
-        <dex dex="D:\Androiddaima\CoolWeather\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_78a6c8137e9bc70f09944399a452a64bf35143e3\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
         jar="D:\Androiddaima\CoolWeather\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
         jumboMode="true"
         optimize="true"
@@ -36,15 +18,6 @@
         revision="27.0.2"
         sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
         <dex dex="D:\Androiddaima\CoolWeather\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.1_c6826f8122f2eda5a184a9259a43699cb87bfdb1\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\Androiddaima\CoolWeather\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="27.0.2"
-        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
-        <dex dex="D:\Androiddaima\CoolWeather\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.1_452e60a64452afb2859d6b24da283a10abd9db52\classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -66,15 +39,6 @@
     </item>
     <item
         is-multidex="true"
-        jar="D:\Androiddaima\CoolWeather\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="27.0.2"
-        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
-        <dex dex="D:\Androiddaima\CoolWeather\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.1_e45308996cb551ae1d46aa97acc3b5fa22d21f26\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
         jar="C:\Users\Administrator\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
         jumboMode="true"
         optimize="true"
@@ -84,20 +48,11 @@
     </item>
     <item
         is-multidex="true"
-        jar="D:\Androiddaima\CoolWeather\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="27.0.2"
-        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
-        <dex dex="D:\Androiddaima\CoolWeather\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.1_cfac3c7541a5cabfe81eae0e8a617a54c104cf66\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
         jar="D:\Androiddaima\CoolWeather\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
         jumboMode="true"
         optimize="true"
         revision="27.0.2"
-        sha1="295cc8446631e3e6e13655cb14f70ee138931aaf">
+        sha1="b3f93d587cf38623db5145b309d9fb39144cc788">
         <dex dex="D:\Androiddaima\CoolWeather\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_b06c6ab42042c51f54da3ae92338198c381ed92f\classes.dex" />
     </item>
     <item
@@ -138,11 +93,101 @@
     </item>
     <item
         is-multidex="true"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.7\751f548c85fa49f330cecbb1875893f971b33c4e\gson-2.7.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.2"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="D:\Androiddaima\CoolWeather\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.7_2e85dbf641c4a16c73925139bd4ff50ebb0450dd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Androiddaima\CoolWeather\app\build\intermediates\exploded-aar\org.litepal.android\core\1.4.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.2"
+        sha1="2ed5d8f90fadbfa1098d859cda836de0dc31d265">
+        <dex dex="D:\Androiddaima\CoolWeather\app\build\intermediates\transforms\dex\debug\folders\1000\10\org.litepal.android-core-1.4.1_74ffeb4b4f098bad5935acf6abfe5c8d5533c3aa\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Androiddaima\CoolWeather\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\Androiddaima\CoolWeather\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.1_c98dc02bb2634d88e108a4c750ab8b840b345061\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Androiddaima\CoolWeather\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="D:\Androiddaima\CoolWeather\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_78a6c8137e9bc70f09944399a452a64bf35143e3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Androiddaima\CoolWeather\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="D:\Androiddaima\CoolWeather\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.1_452e60a64452afb2859d6b24da283a10abd9db52\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Androiddaima\CoolWeather\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="D:\Androiddaima\CoolWeather\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.1_e45308996cb551ae1d46aa97acc3b5fa22d21f26\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Androiddaima\CoolWeather\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="D:\Androiddaima\CoolWeather\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.1_cfac3c7541a5cabfe81eae0e8a617a54c104cf66\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.4.1\c7c4f9e35c2fd5900da24f9872e3971801f08ce0\okhttp-3.4.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.2"
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="D:\Androiddaima\CoolWeather\app\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-3.4.1_a3a718343956c6e4d917a53a4fdd4a4dc134cda5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.7.0\9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4\glide-3.7.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.2"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="D:\Androiddaima\CoolWeather\app\build\intermediates\transforms\dex\debug\folders\1000\10\glide-3.7.0_1f3ddf859a86296da03fddcf50d19f29d652df81\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.9.0\f824591a0016efbaeddb8300bee54832a1398cfa\okio-1.9.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.2"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="D:\Androiddaima\CoolWeather\app\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.9.0_db0545b090bbd931e1cf6e43202e038727277a7d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="D:\Androiddaima\CoolWeather\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
         jumboMode="true"
         optimize="true"
         revision="27.0.2"
-        sha1="a1e84ca6abe381b4c14f9c2a2fb3772d53d4d580">
+        sha1="18a433ee5465e182ed6b080b450a86695fa1abcf">
         <dex dex="D:\Androiddaima\CoolWeather\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_552216a6f5072daaf0efc7fea0e73da7bdfa8df4\classes.dex" />
     </item>
     <item
